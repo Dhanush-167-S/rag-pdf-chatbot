@@ -1,0 +1,22 @@
+# Environment and Python files
+.env
+.env.example
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit and cache
+.streamlit/
+*.db
+*.log
+
+# Temporary files
+temp_*.pdf
+
+# VS Code / PyCharm project files
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
